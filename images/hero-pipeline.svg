@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1440 150" preserveAspectRatio="none" fill="none">
+  <!-- Pipeline long section across the bottom of the hero:
+       ground surface, manholes, hydraulic grade line (lime, dashed) and the pipe (turquoise).
+       Stretches to any width; strokes keep their thickness. -->
+  <path d="M0 34 C 160 26, 260 46, 420 38 S 700 22, 860 34 S 1160 50, 1300 40 S 1400 34, 1440 36" stroke="#FFFFFF" stroke-opacity=".55" stroke-width="2" vector-effect="non-scaling-stroke"/>
+  <path d="M360 40 V 92 M720 32 V 101 M1080 44 V 110" stroke="#FFFFFF" stroke-opacity=".45" stroke-width="10" vector-effect="non-scaling-stroke"/>
+  <path d="M0 64 L 1440 104" stroke="#84CC16" stroke-width="2" stroke-dasharray="10 8" vector-effect="non-scaling-stroke"/>
+  <path d="M0 82 L 1440 122" stroke="#00A6A6" stroke-width="12" vector-effect="non-scaling-stroke"/>
+  <path d="M0 82 L 1440 122" stroke="#061F36" stroke-width="5" vector-effect="non-scaling-stroke"/>
+  <path d="M0 150 L0 140 L1440 140 L1440 150 Z" fill="#FFFFFF"/>
+</svg>

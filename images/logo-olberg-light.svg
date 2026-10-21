@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="-10 -4 372 108" role="img" aria-labelledby="t">
+  <title id="t">Olberg Consulting</title>
+  <!-- OLBERG CONSULTING — refined wordmark, light version for dark backgrounds (footer). Same drawing as logo-olberg.svg. -->
+  <defs>
+    <linearGradient id="above" x1="0" y1="0" x2="331" y2="0" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#FFFFFF"/>
+      <stop offset=".5" stop-color="#EAF7F7"/>
+      <stop offset="1" stop-color="#C5EEEE"/>
+    </linearGradient>
+    <linearGradient id="below" x1="0" y1="0" x2="331" y2="0" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#8CC4EE"/>
+      <stop offset=".5" stop-color="#5CD0DE"/>
+      <stop offset="1" stop-color="#3CCBCB"/>
+    </linearGradient>
+    <clipPath id="clipAbove"><rect x="-10" y="-4" width="372" height="53.2"/></clipPath>
+    <clipPath id="clipBelow"><rect x="-10" y="50.8" width="372" height="40"/></clipPath>
+    <g id="letters" stroke-width="13" stroke-linejoin="miter">
+      <circle cx="30" cy="40" r="23.5" fill="none"/>
+      <path d="M75.5 10V63.5H109" fill="none"/>
+      <path d="M121.5 10V70" fill="none"/>
+      <path d="M121.5 16.5H143A11.75 11.75 0 0 1 143 40H121.5" fill="none"/>
+      <path d="M121.5 40H145A11.75 11.75 0 0 1 145 63.5H121.5" fill="none"/>
+      <path d="M213 16.5H179.5V63.5H213M179.5 40H207" fill="none"/>
+      <path d="M227.5 10V70" fill="none"/>
+      <path d="M227.5 16.5H249A11.75 11.75 0 0 1 249 40H227.5" fill="none"/>
+      <polygon points="238,40 254,40 267,70 251,70" stroke="none"/>
+      <path d="M317.6 23.4A23.5 23.5 0 1 0 324.5 40H301" fill="none"/>
+    </g>
+  </defs>
+  <g stroke="#FFFFFF" stroke-opacity=".18" stroke-width=".6">
+    <line x1="-6" y1="10" x2="337" y2="10"/>
+    <line x1="-6" y1="70" x2="337" y2="70"/>
+  </g>
+  <path d="M16.25 50H43.75A17 17 0 0 1 16.25 50Z" fill="#3CCBCB" fill-opacity=".3"/>
+  <line x1="-6" y1="50" x2="342" y2="50" stroke="#3CCBCB" stroke-width=".9"/>
+  <use href="#letters" stroke="url(#above)" fill="url(#above)" clip-path="url(#clipAbove)"/>
+  <use href="#letters" stroke="url(#below)" fill="url(#below)" clip-path="url(#clipBelow)"/>
+  <path d="M23 40h14M30 33v14" stroke="#FFFFFF" stroke-opacity=".5" stroke-width=".8"/>
+  <g fill="none" stroke="#FFFFFF" stroke-width="2.6" stroke-linejoin="miter" stroke-miterlimit="2">
+    <path d="M12.3 86.9A6.5 6.5 0 1 0 12.3 96.1"/>
+    <circle cx="44.86" cy="91.5" r="6.5"/>
+    <path d="M77.42 98V85L87.42 98V85"/>
+    <path d="M121.88 86.6A4.5 3.25 0 1 0 117.98 91.5A4.5 3.25 0 1 1 114.08 96.4"/>
+    <path d="M148.54 85V93A5 5 0 0 0 158.54 93V85"/>
+    <path d="M184.6 85V98H192.6"/>
+    <path d="M218.66 85H228.66M223.66 85V98"/>
+    <path d="M254.72 85V98"/>
+    <path d="M280.78 98V85L290.78 98V85"/>
+    <path d="M327.94 86.9A6.5 6.5 0 1 0 329.84 91.5H323.84"/>
+  </g>
+  <polygon points="344,42 354,42 349,49.5" fill="#84CC16"/>
+</svg>
